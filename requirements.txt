@@ -1,0 +1,11 @@
+pandas==1.5.2
+pandas-stubs==1.5.2.221124
+selenium==3.141.0
+virtualenv==20.16.6
+virtualenvwrapper-win==1.2.7
+wasabi==1.1.1
+wcwidth==0.2.5
+webdriver-manager==3.4.2
+webencodings==0.5.1
+websockets==9.1
+
