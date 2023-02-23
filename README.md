@@ -2,7 +2,7 @@
 Selenium_python
 
 # Description
-This selenium_python project is a simple data driven automation that validates dropdown list in webapp
+This selenium_python project is a simple data-driven automation that validates a dropdown list in a web app
 
 # Tech Stack
 - Python
